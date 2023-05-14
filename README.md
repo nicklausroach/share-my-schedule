@@ -1,3 +1,3 @@
-# Personal Gig Calendar
+# Share My Schedule
 
-A basic calendar for tracking my gig schedule and exposing it publicly. Hosted via AWS Amplify.
+A lightweight web app for sharing a connected calendar. Hosted via AWS Amplify.

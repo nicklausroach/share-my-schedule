@@ -44,4 +44,4 @@
         :global(html) {
             font-family: Arial, Helvetica, sans-serif;
         }
-    </style>
+</style>
